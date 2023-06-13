@@ -33,7 +33,7 @@ public class Solution {
         ladderPositionMap.setLadderPosition(90, 94);
         ladderPositionMap.setLadderPosition(25, 88);
         ladderPositionMap.setLadderPosition(45, 65);
-        
+
         System.out.println("Game Is Going To Start.....>");
         gameBoard.startTheGame(snakePositionMap, ladderPositionMap);
         System.out.println("The End -_-");
